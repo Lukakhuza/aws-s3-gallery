@@ -1,0 +1,8 @@
+Create a web site with a lot of users.
+Website will have a few different pages.
+One page will be for uploading images.
+In order to upload photo(s), the user must enter their first and last name.
+There will be a page for gallery, where the photos will all be displayed, right next to each other.
+Under each photo, there will be the name of the person who uploaded it.
+
+When the user clicks on a photo, the photo will be displayed in large format.
