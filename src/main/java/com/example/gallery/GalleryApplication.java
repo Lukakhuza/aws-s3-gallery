@@ -1,3 +1,5 @@
+// Application Starting Point
+
 package com.example.gallery;
 
 import org.springframework.boot.SpringApplication;
